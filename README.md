@@ -19,5 +19,5 @@
 - **Boas Práticas de Código**: Uso de tags semânticas para melhor estruturação da página.
 
 ## 🎨 Design da Página
-![Descrição do GIF](/images/gif-design.gif)
+![Descrição do GIF](/gifs/gif-design.gif)
 
