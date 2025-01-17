@@ -2,7 +2,7 @@
 
 
 ## 🎯Objetivo :
- Este é um dos desafios da plataforma FrontEnd Mentor, um projeto básico com dificuldade newbie, minha intenção com esse desafio é praticar minhas habilidades em HTML e CSS, que mesmo sendo tecnologias simples, são habilidades essnciais para meu aprendizado como desenvolvedor frontEnd. 
+ Este é um dos desafios da plataforma FrontEnd Mentor, um projeto básico com dificuldade newbie, minha intenção com esse desafio é praticar minhas habilidades em HTML e CSS, que mesmo sendo tecnologias simples, são habilidades essenciais para meu aprendizado como desenvolvedor frontEnd. 
 
 ---
 
